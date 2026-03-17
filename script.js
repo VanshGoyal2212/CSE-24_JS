@@ -50,7 +50,7 @@ else{
 // console.log(x=10&&y>1);
 // console.log(x==6||y==5);
 // console.log(!(x==y));
-// let x=(age<18)?"to young":"old enough";
+
 // var i;
 // for(i=0;i<3;i++)
 // {
@@ -60,3 +60,4 @@ var count;
 for(count=0;count<10;count++){
     document.write("CurrentCount:"+count+"</br>");
 }
+// let x=(age<18)?"to young":"old enough";
